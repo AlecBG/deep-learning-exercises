@@ -1,0 +1,10 @@
+venv/
+datasets/
+cats_and_dogs/
+xception_cats_and_dogs/
+glove/
+my_logs/
+__pycache__/
+
+*.h5
+*.pkl
